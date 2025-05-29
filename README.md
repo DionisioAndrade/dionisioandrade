@@ -35,7 +35,7 @@ I hold a degree in Systems Analysis and Development and have over years of exper
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionisioAndrade&layout=compact&theme=tokyonight" height="150"/>
 </p>
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DionisioAndrade&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<!-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=DionisioAndrade&show_icons=true&theme=tokyonight&cache_seconds=1800) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionisioAndrade&layout=compact&theme=tokyonight&cache_seconds=1800)
 
